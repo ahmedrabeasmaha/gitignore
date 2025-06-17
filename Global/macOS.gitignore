@@ -2,7 +2,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-Icon\r\r
+Icon["^M"]
 
 # Thumbnails
 ._*
