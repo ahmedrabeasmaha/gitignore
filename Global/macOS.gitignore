@@ -2,7 +2,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-Icon[]
+Icon["^M"]
 
 # Thumbnails
 ._*
@@ -22,3 +22,6 @@ Icon[]
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# iCloud generated files
+*.icloud
